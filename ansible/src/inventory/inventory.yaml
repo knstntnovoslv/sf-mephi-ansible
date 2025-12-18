@@ -1,0 +1,15 @@
+nginx:
+  hosts:
+    server1: 
+      ansible_host: 79.174.94.91
+      ansible_user: root
+      ansible_password: secret
+
+apache:
+  hosts:
+    sevrer1:
+      ansible_host: 95.163.228.154
+      ansible_user: root
+      ansible_password: secret
+      
+
